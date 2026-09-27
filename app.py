@@ -15,7 +15,7 @@ st.markdown(
 
 # YOUR EXPERIENCED LINE EXTRACTED INTO A NEW PROFESSIONAL NOTE HERE
 st.markdown(
-    "💡 **Author's Note:** Having personally lived and studied in both Australia and Europe, the datasets and insights presented in this dashboard are grounded in real-world observations and firsthand financial tracking."
+    "💡 **Tapas's Note:** Having personally lived and studied in both Australia and Europe, the datasets and insights presented in this dashboard are grounded in real-world observations and firsthand financial tracking."
 )
 st.markdown('---')
 
